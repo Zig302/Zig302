@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alex! 👋
 
-<!--
-**Zig302/Zig302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a strong interest in software, firmware, machine learning, and computer architecture. I love exploring the intersection between low-level programming and intelligent systems, and I'm always excited to learn something new.
 
-Here are some ideas to get you started:
+Some of my favorite projects so far:
+- 🗣️ **Networking chat in Python**: Built from scratch to better understand sockets and real-time communication.
+- 🤖 **Machine Learning Testing (ML_testing)**: Experimenting with keyword spotting (KWS) for my final year project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include:
+- Low-level programming (anything close to the hardware!)
+- Data science and machine learning
+- Systems and architecture
+
+I'm always open to collaborating, learning, or just chatting about tech. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/alexmak7)!
+
+Thanks for stopping by! 🚀
