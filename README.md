@@ -8,6 +8,5 @@ My main interests include:
 - Data science and machine learning
 - Systems and architecture
 
-I'm always open to collaborating, learning, or just chatting about tech. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/alexmak7)!
 
 Thanks for stopping by! 🚀
