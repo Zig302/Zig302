@@ -1,12 +1,11 @@
-# Hi, I'm Alex! 👋
+# Hi👋
 
-I'm a Computer Engineering student with a strong interest in software, firmware, machine learning, and computer architecture. 
-I love exploring the intersection between low-level programming and intelligent systems.
-
+I'm a Computer Engineering student finishing my 4th year in BIU.
 My main interests include:
-- Low-level programming (anything close to the hardware!)
-- Data science and machine learning
-- Systems and architecture
-
+- SW & FW
+- ML & DL
+- Architecture
 
 Thanks for stopping by! 🚀
+
+- Alex
